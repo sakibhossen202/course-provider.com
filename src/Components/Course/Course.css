@@ -1,0 +1,11 @@
+.img-sizing img{
+    height: 200px;
+    width: 350px;
+}
+.img-sizing{
+    padding:15px;
+}
+.box-shadow{
+    box-shadow: 8px 10px 25px gray;
+    margin:5px;
+}
